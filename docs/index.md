@@ -5,83 +5,47 @@ title: Travis Smith's Resume
 # Travis Smith
 BYU-Idaho student studying Computer Science with an emphasis in Machine Learning | Seeking interships in Data Analysis or in IT
 
-<div id="webaddress">
-<a href="smi16037@byui.edu">Email</a>
-| <a href="https://byuidatascience.github.io/development.html">Data Science Program</a>
-| <a href="https://www.linkedin.com/in/travis-jon-smith/">LinkedIn</a>
-| <a href="https://github.com/travis7smith">GitHub</a>
+<div id='webaddress'>
+<a href='smi16037@byui.edu'>Email</a>
+| <a href='https://byuidatascience.github.io/development.html'>Data Science Program</a>
+| <a href='https://www.linkedin.com/in/travis-jon-smith/'>LinkedIn</a>
+| <a href='https://github.com/travis7smith'>GitHub</a>
 </div>
 
 ## Education
 
-`2025-2027`
-__LDS Business College__, Salt Lake City, UT
-
-- Full academic scholarship with 4.0 GPA
-
-`Expected 2029`
+`2018 - 2022`
 __Brigham Young University - Idaho__, Rexburg, ID
 
-- 4.0 Major GPA
+## Work History
 
+`August 2013 - April 2016`
+__Spokane Dental__
+- Sterilization and prep work for hygiene and assistant
+- Landscaping/Maintenance
 
-## Related Experience
+`June 2016 - Sep 2016, March 2020 - Sept 2020`
+__Downriver Grill__
+- Learned how to work with coworkers and customers as a host
+- Observed how a business is run effectively
 
-### Internships
+`January 2018 - April 2018`
+__ATC Manufacturing__
+- Learned the process of carbon-fiber parts for planes
+- Engineering and business learning opportunities
 
-`January 2028 - June 2028`
-__Pacific Northwest National Lab__, Richland, WA
+`July 2019 - September 2019`
+__Above and Beneath You LLC__
+- Hard manual labor doing carpeting
+- Main communication with customers
 
-- Worked on novel methods for soil sampling to reduce laboratory measurements
-- Used R and Visual Sample Plan to establish new sampling algorithms
-- Published a journal article in Environmental Quality.
+`February 2021 - September 2021`
+__OptimalShip__
+- Experience in sales and working with logistics
+- Learned how communicate effectively with customers and future clients
 
-### Data Science Lead
-
-`April 2027 - June 2027`
-__Westmark Credit Union__, Consultant
-
-- Developed a predicted model to support Westmark in custumer conversion from dealer loans.
-- Used R and Python to build a machine learning model using CatBoost in Python and the Tidyverse for data visualization and munging. 
-- Improved previous model development to over 85% balanced accuracy. Expect model to be implemented in Westmark business practices.
-
-`September 2027 - April 2028`
-__Good2Go__, Consultant
-
-- Built product ordering and supply predictive algorithms for chips and beverages categories
-- Established standardized SQL calls and connections for PowerBI dashboards
-- Found over $35k in waste and saved over 200 annual hours of store quality control work 
-
-### Data Science Consulting Team
-
-`January 2027 - April 2027`
-__Imagine Learning__
-
-- Build web scraping tool to find and format school district technology data.
-- Used R and the Rvest package to parse and format web data.
-- Saved 30 hours a month with the automated scripts.
-
-`April 2027 - July 2027`
-__Pinnacle Management Group__, 
-
-- Proof of concept development of dashboards using client's corporate data.
-- Built and documented differences of PowerBI, Google Dashoards, and Tableau.
-- Saved client $10k in database and dashboard server fees and validated future dashboard processes.
-
-
-## Service and Work History
-
-`2025-2027`
-__Math Tutor__, LDSBC
-
-
-`2023-2025`
-__Service Missionary__, South Africa
-
-
-
-<!-- ### Footer
-
-Last updated: May 2013 -->
-
-
+__Volunteer work:__
+- Veteran “Stand Down”
+- Animal Shelter
+- 2nd Harvest - Food donation center
+- Asked to help and organize all the men of my church and assist the bishop of that church with all meetings and service
