@@ -4,7 +4,7 @@ title: Travis Smith's Resume
 ---
 # Travis Smith
 BYU-Idaho student studying Computer Science with an emphasis in Machine Learning | Seeking interships in Data Analysis or in IT
-Julio is amazing
+
 <div id="webaddress">
 <a href="smi16037@byui.edu">Email</a>
 | <a href="https://byuidatascience.github.io/development.html">Data Science Program</a>
