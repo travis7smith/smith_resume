@@ -15,6 +15,7 @@ BYU-Idaho student studying Computer Science with an emphasis in Machine Learning
 
 `2018 - 2022`
 __Brigham Young University - Idaho__, Rexburg, ID
+- Bachelor of Science in Computer Science with an emphasis in Machine Learning
 
 ## Work History
 
