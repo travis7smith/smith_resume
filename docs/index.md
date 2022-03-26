@@ -7,7 +7,6 @@ BYU-Idaho student studying Computer Science with an emphasis in Machine Learning
 
 <div id='webaddress'>
 <a href='smi16037@byui.edu'>Email</a>
-| <a href='https://byuidatascience.github.io/development.html'>Data Science Program</a>
 | <a href='https://www.linkedin.com/in/travis-jon-smith/'>LinkedIn</a>
 | <a href='https://github.com/travis7smith'>GitHub</a>
 </div>
