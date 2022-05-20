@@ -45,6 +45,11 @@ __OptimalShip__
 - Experience in sales and working with logistics
 - Learned how communicate effectively with customers and future clients
 
+`October 2021 - Current`
+__Melaleuca__
+- Creating a positive experience with customers even when there is an issue
+- Improving personal Spanish skills
+
 __Volunteer work:__
 - Veteran “Stand Down”
 - Animal Shelter
