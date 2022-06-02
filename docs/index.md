@@ -3,12 +3,13 @@ layout: cv
 title: Travis Smith's Resume
 ---
 # Travis Smith
-BYU-Idaho student studying Computer Science with an emphasis in Machine Learning | Seeking interships in Data Analysis or in IT
+BYU-Idaho student studying Computer Science | Seeking interships in Data Analysis or in IT
 
 <div id='webaddress'>
 <a href='smi16037@byui.edu'>Email</a>
 | <a href='https://www.linkedin.com/in/travis-jon-smith/'>LinkedIn</a>
 | <a href='https://github.com/travis7smith'>GitHub</a>
+| <a href='https://www.byui.edu/career/students/internships/requirements'>Internship Requirements</a>
 </div>
 
 ## Education
