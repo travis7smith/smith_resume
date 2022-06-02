@@ -46,7 +46,7 @@ __Delays in Airports__, Brigham Young University - Idaho
 - This project was to use the data given to find details about four airports for delays in flights
 - Using libraries: pandas, altair, numpy
 
-[Link to project](https://github.com/travis7smith/data_science_projects/blob/main/airport.html)
+[Link to project](https://htmlpreview.github.io/?https://github.com/travis7smith/data_science_projects/blob/main/airport.html)
 
 <!--
 <details>
