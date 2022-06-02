@@ -25,28 +25,28 @@ __What year a home was built__, Brigham Young University - Idaho
 - This project was to use the data given to determine if the home was built before or after the year 1980
 - Using libraries: pandas, altair, seaborn, matplotlib, sklearn
 
-[Link to project]('https://github.com/travis7smith/data_science_projects/blob/main/homes_yr_built.html')
+[Link to project](https://github.com/travis7smith/data_science_projects/blob/main/homes_yr_built.html)
 
 `Feburary 2022`
 __Baseball data__, Brigham Young University - Idaho
 - This project was to use the data given to get practice with SQL and using multiple dataframes
 - Using libraries: pandas, altair, sqlite3
 
-[Link to project]('https://github.com/travis7smith/data_science_projects/blob/main/SQL.html')
+[Link to project](https://github.com/travis7smith/data_science_projects/blob/main/SQL.html)
 
 `October 2021`
 __Housing in Seattle__, Brigham Young University - Idaho
 - This project was to use the data given to find the selling price of a home using machine learning
 - Using libraries: pandas, seaborn, matplotlib, numpy, xgboost, sklearn
 
-[Link to project]('https://github.com/travis7smith/data_science_projects/blob/main/house_seattle.html')
+[Link to project](https://github.com/travis7smith/data_science_projects/blob/main/house_seattle.html)
 
 `Feburary 2022`
 __Delays in Airports__, Brigham Young University - Idaho
 - This project was to use the data given to find details about four airports for delays in flights
 - Using libraries: pandas, altair, numpy
 
-[Link to project]('https://github.com/travis7smith/data_science_projects/blob/main/airport.html')
+[Link to project](https://github.com/travis7smith/data_science_projects/blob/main/airport.html)
 
 <!--
 <details>
